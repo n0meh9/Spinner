@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BackgroundColorSpinner</string>
+
+    <string name="hello_world">Please choose a color for your new background!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_colored_background">ColoredBackground</string>
+</resources>
